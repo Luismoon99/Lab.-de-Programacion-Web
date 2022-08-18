@@ -1,4 +1,3 @@
-# Lab. de Programacion Web
 <html>
 <head>
 <title>Portada de Lab. de Programacion Web </title>
